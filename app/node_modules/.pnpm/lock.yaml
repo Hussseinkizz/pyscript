@@ -1,0 +1,144 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@pyscript/core':
+        specifier: ^0.5.12
+        version: 0.5.12
+
+packages:
+
+  '@pyscript/core@0.5.12':
+    resolution: {integrity: sha512-WE5s3X6ARqr89AkbSAQj9LQ8bcIzFzZ8NtEZsq3dskB4T0itsyjhy4uwxqIBtFnwu0TM1k0AUOwWq47mEuGp2Q==}
+
+  '@ungap/structured-clone@1.2.0':
+    resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
+
+  '@ungap/with-resolvers@0.1.0':
+    resolution: {integrity: sha512-g7f0IkJdPW2xhY7H4iE72DAsIyfuwEFc6JWc2tYFwKDMWWAF699vGjrM348cwQuOXgHpe1gWFe+Eiyjx/ewvvw==}
+
+  '@webreflection/fetch@0.1.5':
+    resolution: {integrity: sha512-zCcqCJoNLvdeF41asAK71XPlwSPieeRDsE09albBunJEksuYPYNillKNQjf8p5BqSoTKTuKrW3lUm3MNodUC4g==}
+
+  '@webreflection/idb-map@0.3.1':
+    resolution: {integrity: sha512-lRCanqwR7tHHFohJHAMSMEZnoNPvgjcKr0f5e4y+lTJA+fctT61EZ+f5pT5/+8+wlSsMAvXjzfKRLT6o9aqxbA==}
+
+  basic-devtools@0.1.6:
+    resolution: {integrity: sha512-g9zJ63GmdUesS3/Fwv0B5SYX6nR56TQXmGr+wE5PRTNCnGQMYWhUx/nZB/mMWnQJVLPPAp89oxDNlasdtNkW5Q==}
+
+  codedent@0.1.2:
+    resolution: {integrity: sha512-qEqzcy5viM3UoCN0jYHZeXZoyd4NZQzYFg0kOBj8O1CgoGG9WYYTF+VeQRsN0OSKFjF3G1u4WDUOtOsWEx6N2w==}
+
+  coincident@2.1.4:
+    resolution: {integrity: sha512-Lpf9vpobydp290uscWrLK0HU7NSbYvkefn6CNzUSia3Uyc/WPuU2gRe2ejH1yYrYAsH9TrT2u0adojP/vlpAhQ==}
+
+  gc-hook@0.3.1:
+    resolution: {integrity: sha512-E5M+O/h2o7eZzGhzRZGex6hbB3k4NWqO0eA+OzLRLXxhdbYPajZnynPwAtphnh+cRHPwsj5Z80dqZlfI4eK55A==}
+
+  gc-hook@0.4.1:
+    resolution: {integrity: sha512-uiF+uUftDVLr+VRdudsdsT3/LQYnv2ntwhRH964O7xXDI57Smrek5olv75Wb8Nnz6U+7iVTRXsBlxKcsaDTJTQ==}
+
+  html-escaper@3.0.3:
+    resolution: {integrity: sha512-RuMffC89BOWQoY0WKGpIhn5gX3iI54O6nRA0yC124NYVtzjmFWBIiFd8M0x+ZdX0P9R4lADg1mgP8C7PxGOWuQ==}
+
+  js-proxy@0.4.4:
+    resolution: {integrity: sha512-f2Av1PIsa2Wtgb0VfDehK7aglp8eby2rLsD5juLWcYPlJsWp0WUxyK9r18hjzV9N0ejA76x6kw1v/YlJvKwycw==}
+
+  plain-tag@0.1.3:
+    resolution: {integrity: sha512-yyVAOFKTAElc7KdLt2+UKGExNYwYb/Y/WE9i+1ezCQsJE8gbKSjewfpRqK2nQgZ4d4hhAAGgDCOcIZVilqE5UA==}
+
+  polyscript@0.15.6:
+    resolution: {integrity: sha512-KjHNHlmOxgmU/gFsSD/YGEv9l38TJkCo3z+E2rO8xeig7qP3qAEh0GOet/6RxExWrB6SGhK0C8J1M4wdszP4pg==}
+
+  proxy-target@3.0.2:
+    resolution: {integrity: sha512-FFE1XNwXX/FNC3/P8HiKaJSy/Qk68RitG/QEcLy/bVnTAPlgTAWPZKh0pARLAnpfXQPKyalBhk009NRTgsk8vQ==}
+
+  sabayon@0.5.2:
+    resolution: {integrity: sha512-7y8dwQFhInkUuI0JL1rAGLYeKz9LypgfzMOVO04v9pYvepzYJ6B7MhyoRiVIx2sGm7MhrD5h/SaHP6p+5Uc7Cw==}
+    hasBin: true
+
+  sticky-module@0.1.1:
+    resolution: {integrity: sha512-IuYgnyIMUx/m6rtu14l/LR2MaqOLtpXcWkxPmtPsiScRHEo+S4Tojk+DWFHOncSdFX/OsoLOM4+T92yOmI1AMw==}
+
+  to-json-callback@0.1.1:
+    resolution: {integrity: sha512-BzOeinTT3NjE+FJ2iCvWB8HvyuyBzoH3WlSnJ+AYVC4tlePyZWSYdkQIFOARWiq0t35/XhmI0uQsFiUsRksRqg==}
+
+  type-checked-collections@0.1.7:
+    resolution: {integrity: sha512-fLIydlJy7IG9XL4wjRwEcKhxx/ekLXiWiMvcGo01cOMF+TN+5ZqajM1mRNRz2bNNi1bzou2yofhjZEQi7kgl9A==}
+
+snapshots:
+
+  '@pyscript/core@0.5.12':
+    dependencies:
+      '@ungap/with-resolvers': 0.1.0
+      '@webreflection/idb-map': 0.3.1
+      basic-devtools: 0.1.6
+      polyscript: 0.15.6
+      sabayon: 0.5.2
+      sticky-module: 0.1.1
+      to-json-callback: 0.1.1
+      type-checked-collections: 0.1.7
+
+  '@ungap/structured-clone@1.2.0': {}
+
+  '@ungap/with-resolvers@0.1.0': {}
+
+  '@webreflection/fetch@0.1.5': {}
+
+  '@webreflection/idb-map@0.3.1': {}
+
+  basic-devtools@0.1.6: {}
+
+  codedent@0.1.2:
+    dependencies:
+      plain-tag: 0.1.3
+
+  coincident@2.1.4:
+    dependencies:
+      gc-hook: 0.4.1
+      js-proxy: 0.4.4
+      sabayon: 0.5.2
+
+  gc-hook@0.3.1: {}
+
+  gc-hook@0.4.1: {}
+
+  html-escaper@3.0.3: {}
+
+  js-proxy@0.4.4:
+    dependencies:
+      gc-hook: 0.3.1
+      proxy-target: 3.0.2
+
+  plain-tag@0.1.3: {}
+
+  polyscript@0.15.6:
+    dependencies:
+      '@ungap/structured-clone': 1.2.0
+      '@ungap/with-resolvers': 0.1.0
+      '@webreflection/fetch': 0.1.5
+      '@webreflection/idb-map': 0.3.1
+      basic-devtools: 0.1.6
+      codedent: 0.1.2
+      coincident: 2.1.4
+      gc-hook: 0.4.1
+      html-escaper: 3.0.3
+      proxy-target: 3.0.2
+      sticky-module: 0.1.1
+      to-json-callback: 0.1.1
+
+  proxy-target@3.0.2: {}
+
+  sabayon@0.5.2: {}
+
+  sticky-module@0.1.1: {}
+
+  to-json-callback@0.1.1: {}
+
+  type-checked-collections@0.1.7: {}
